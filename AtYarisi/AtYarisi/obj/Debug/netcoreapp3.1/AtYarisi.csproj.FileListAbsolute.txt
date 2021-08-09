@@ -1,0 +1,16 @@
+C:\Users\Aleyna\source\repos\AtYarisi\AtYarisi\bin\Debug\netcoreapp3.1\AtYarisi.exe
+C:\Users\Aleyna\source\repos\AtYarisi\AtYarisi\bin\Debug\netcoreapp3.1\AtYarisi.deps.json
+C:\Users\Aleyna\source\repos\AtYarisi\AtYarisi\bin\Debug\netcoreapp3.1\AtYarisi.runtimeconfig.json
+C:\Users\Aleyna\source\repos\AtYarisi\AtYarisi\bin\Debug\netcoreapp3.1\AtYarisi.runtimeconfig.dev.json
+C:\Users\Aleyna\source\repos\AtYarisi\AtYarisi\bin\Debug\netcoreapp3.1\AtYarisi.dll
+C:\Users\Aleyna\source\repos\AtYarisi\AtYarisi\bin\Debug\netcoreapp3.1\AtYarisi.pdb
+C:\Users\Aleyna\source\repos\AtYarisi\AtYarisi\obj\Debug\netcoreapp3.1\AtYarisi.csproj.AssemblyReference.cache
+C:\Users\Aleyna\source\repos\AtYarisi\AtYarisi\obj\Debug\netcoreapp3.1\AtYarisi.Form1.resources
+C:\Users\Aleyna\source\repos\AtYarisi\AtYarisi\obj\Debug\netcoreapp3.1\AtYarisi.Properties.Resources.resources
+C:\Users\Aleyna\source\repos\AtYarisi\AtYarisi\obj\Debug\netcoreapp3.1\AtYarisi.csproj.GenerateResource.cache
+C:\Users\Aleyna\source\repos\AtYarisi\AtYarisi\obj\Debug\netcoreapp3.1\AtYarisi.AssemblyInfoInputs.cache
+C:\Users\Aleyna\source\repos\AtYarisi\AtYarisi\obj\Debug\netcoreapp3.1\AtYarisi.AssemblyInfo.cs
+C:\Users\Aleyna\source\repos\AtYarisi\AtYarisi\obj\Debug\netcoreapp3.1\AtYarisi.csproj.CoreCompileInputs.cache
+C:\Users\Aleyna\source\repos\AtYarisi\AtYarisi\obj\Debug\netcoreapp3.1\AtYarisi.dll
+C:\Users\Aleyna\source\repos\AtYarisi\AtYarisi\obj\Debug\netcoreapp3.1\AtYarisi.pdb
+C:\Users\Aleyna\source\repos\AtYarisi\AtYarisi\obj\Debug\netcoreapp3.1\AtYarisi.genruntimeconfig.cache
